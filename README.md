@@ -23,6 +23,8 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 | Pruning       | 62 %     | 1.06 ms ± 491 µs           |
 | Quantization  | 64 %     | 390 µs ± 43.4 µs           |
 | Distilation   | 60 %     | 396 µs ± 97.9 µs           |
+| Convertion    | 63 %     | 142 µs ± 40.6 µs           |
+
 
 
 ## Experiments
